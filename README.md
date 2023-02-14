@@ -25,7 +25,9 @@ _Note:_ If you are exploring scripting outside of the Editor, make sure to enabl
 ---
 
 ## Accessing the Editor
-Bedrock Editor will be for Windows PC, keyboard + mouse only. Three-step quick start for getting the Editor: 
+Bedrock Editor is for Windows PC, keyboard + mouse only. View the [documentation](https://aka.ms/LearnEditor) to learn more about the Editor. 
+
+Three-step quick start for getting the Editor: 
 
 1. Install Bedrock Preview via the [Launcher](https://help.minecraft.net/hc/en-us/articles/4412261881229-Minecraft-Launcher-for-Windows-).
 
