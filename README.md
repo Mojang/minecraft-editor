@@ -20,7 +20,7 @@ We are in early development and there is still a lot of work our team has ahead 
 ## Extensibility
 We are building an Editor API. While we have iterations to the core Editor experience we want to make, we are also focused on unlocking functionality via the API for you to build your own editing tools -- which we are calling "extensions." 
 
-In releases to come, we will make our initial iteration of the Editor API visible. However, for now we invite you to acquaint yourself with the existing [scripting](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/) efforts. 
+In releases to come, we will make our initial iteration of the Editor API visible. However, for now we invite you to acquaint yourself with the existing [scripting](https://docs.microsoft.com/minecraft/creator/scriptapi/) efforts. 
 
 _Note:_ If you are exploring scripting outside of the Editor, make sure to enable the "Beta APIs" toggle in Experiments when creating a new world. We also encourage you to proactively brush up on Javascript and Typescript, as that will be the language used for Editor extensions.
 
@@ -31,7 +31,7 @@ Bedrock Editor is for Windows PC, keyboard + mouse only. View the [documentation
 
 **Three-step quick start for getting the Editor:**
 
-1. Install Bedrock Preview via the [Launcher](https://help.minecraft.net/hc/en-us/articles/4412261881229-Minecraft-Launcher-for-Windows-).
+1. Install Bedrock Preview via the [Launcher](https://help.minecraft.net/hc/articles/4412261881229-Minecraft-Launcher-for-Windows-).
 
 | Install the Launcher | Install Bedrock Preview |
 |--|--|
@@ -56,7 +56,7 @@ _If your desktop shortcut doesn't appear to be launching the Editor, you may nee
 | **Resource** | **Description** |
 |--|--|
 | [Documentation](https://aka.ms/LearnEditor) | Learn how to use the Editor | 
-| [Minecraft: Bedrock Edition Preview Changelogs](https://feedback.minecraft.net/hc/en-us/sections/360001185332-Beta-and-Preview-Information-and-Changelogs) | View the Preview changelogs |
+| [Minecraft: Bedrock Edition Preview Changelogs](https://feedback.minecraft.net/hc/sections/360001185332-Beta-and-Preview-Information-and-Changelogs) | View the Preview changelogs |
 | [/mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) | Participate in [discussions and provide feedback to our team](https://github.com/Mojang/minecraft-editor/discussions) | 
 | Coming soon! | Editor API documentation, extension samples, starter kit, and where to create and share Editor API feedback |
 
@@ -73,4 +73,4 @@ If your desktop shortcut doesn't appear to be launching the Editor, you may need
 
 | Change default app | What you should see when the Editor launches | 
 |--|--|
-| <img width="564" alt="image (47)" src="https://user-images.githubusercontent.com/56832421/218187943-634d143a-9775-44ae-9027-0bb5e2acc68f.png"> | <img width="1200" alt="image (48)" src="https://user-images.githubusercontent.com/56832421/218188757-8517ebe3-214a-4923-81ef-84b651b28551.png"> |
+| <img width="564" alt="Image that shows how to change your default app" src="https://user-images.githubusercontent.com/56832421/218187943-634d143a-9775-44ae-9027-0bb5e2acc68f.png"> | <img width="1200" alt="Image that shows what you should see when the Editor launches, which is the create new project screen" src="https://user-images.githubusercontent.com/56832421/218188757-8517ebe3-214a-4923-81ef-84b651b28551.png"> |
