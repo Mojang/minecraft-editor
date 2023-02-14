@@ -1,5 +1,7 @@
 # Welcome to the Minecraft Bedrock Editor! 
 
+<img width="750" alt="Stylized image of the Minecraft Bedrock Editor" src="https://user-images.githubusercontent.com/56832421/218781941-acb626bd-b9a3-4893-a1b0-d6a33b2f3d78.png">
+
 Minecraft Editor is a natively built, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock. 
 
 ---
@@ -33,18 +35,18 @@ Three-step quick start for getting the Editor:
 
 | Install the Launcher | Install Bedrock Preview |
 |--|--|
-| <img width="761" alt="image (45)" src="https://user-images.githubusercontent.com/56832421/218183602-be85617f-b05c-46ea-b682-0280c61392c2.png"> | <img width="753" alt="image (46)" src="https://user-images.githubusercontent.com/56832421/218184144-8850d7bb-7493-4233-a3e0-c9b2f418f673.png"> |
+| <img width="761" alt="Image of installing the Launcher from the Microsoft Store" src="https://user-images.githubusercontent.com/56832421/218183602-be85617f-b05c-46ea-b682-0280c61392c2.png"> | <img width="753" alt="Image of installing Minecraft Bedrock Preview from the Minecraft Launcher" src="https://user-images.githubusercontent.com/56832421/218184144-8850d7bb-7493-4233-a3e0-c9b2f418f673.png"> |
 
 2. Create a desktop shortcut. When prompted for the filename, copy/paste the following into the textfield: `minecraft:?Editor=true`
 
 | Create a new shortcut | Specify the destination |
 |--|--|
-| <img width="416" alt="image (43)" src="https://user-images.githubusercontent.com/56832421/218183560-2d9de360-65f0-4c93-afcf-150ff2958e6a.png"> | <img width="443" alt="image (44)" src="https://user-images.githubusercontent.com/56832421/218183578-355804d4-76e9-48c5-b76c-9748700208d3.png"> |
+| <img width="416" alt="Image of right clicking on Windows desktop to create a new shortcut" src="https://user-images.githubusercontent.com/56832421/218183560-2d9de360-65f0-4c93-afcf-150ff2958e6a.png"> | <img width="443" alt="Image of pasting the shortcut minecraft:?Editor=true as the destination for the shortcut" src="https://user-images.githubusercontent.com/56832421/218183578-355804d4-76e9-48c5-b76c-9748700208d3.png"> |
 
 
 3. Open the Editor via the desktop shortcut you created.
 
-<img src="https://user-images.githubusercontent.com/56832421/218185006-65dac070-7283-42b3-8091-ba9240cb7df3.gif" width="250" />
+<img width="416" alt="Animation of opening the Editor via the desktop shortcut you created" img src="https://user-images.githubusercontent.com/56832421/218185006-65dac070-7283-42b3-8091-ba9240cb7df3.gif" width="250" />
 
 ---
 
