@@ -13,7 +13,7 @@ Minecraft Editor is a natively built, multiblock editing experience focused on m
 ---
 
 ## Development
-We are in early development and there is still a lot of work our team has ahead of us. In line with our principles, we want to share early and often with you, and develop alongside our creator community! We are eager for your feedback and want to work with you to iterate.
+We are in early development and there is still a lot of work our team has ahead of us. In line with our principles, we want to share early and often with you. We are eager for your feedback and want to work with you to iterate.
 
 ---
 
