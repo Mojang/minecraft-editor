@@ -45,8 +45,9 @@ Three-step quick start for getting the Editor:
 
 
 3. Open the Editor via the desktop shortcut you created.
-
 <img width="416" alt="Animation of opening the Editor via the desktop shortcut you created" img src="https://user-images.githubusercontent.com/56832421/218185006-65dac070-7283-42b3-8091-ba9240cb7df3.gif" width="250" />
+
+_If your desktop shortcut doesn't appear to be launching the Editor, you may need to change the default app from `Minecraft` to `Minecraft Preview`. View the Troubleshooting section at the end of this README._
 
 ---
 
