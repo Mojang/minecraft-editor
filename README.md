@@ -56,7 +56,7 @@ Three-step quick start for getting the Editor:
 |--|--|
 | [Documentation](https://aka.ms/LearnEditor) | Learn how to use the Editor | 
 | [Minecraft: Bedrock Edition Preview Changelogs](https://feedback.minecraft.net/hc/en-us/sections/360001185332-Beta-and-Preview-Information-and-Changelogs) | View the Preview changelogs |
-| [/mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) | Create [issues](https://github.com/Mojang/minecraft-editor/issues) and participate in [discussions and provide feedback to our team](https://github.com/Mojang/minecraft-editor/discussions) | 
+| [/mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) | Participate in [discussions and provide feedback to our team](https://github.com/Mojang/minecraft-editor/discussions) | 
 | Coming soon! | Editor API documentation, extension samples, starter kit, and where to create and share Editor API feedback |
 
 ---
