@@ -7,8 +7,8 @@ Minecraft Editor is a natively built, multiblock editing experience focused on m
 ---
 
 ## Housekeeping
-- Editor will be exclusively available in Bedrock Preview on Windows until the feature set and quality meets our standards to be made visible in Retail and the Launcher.
-- Editor is not a new gamemode, and actively being made to be intentionally distinct from Creative, Survival, and Adventure. 
+- Editor will be exclusively available in Bedrock Preview on Windows until the feature set and quality meets our standards.
+- Editor is not a new gamemode, it is a tool to assist creators in their worldbuilding workflows.
 
 ---
 
