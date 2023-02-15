@@ -1,4 +1,4 @@
-# Welcome to the Minecraft Bedrock Editor! 
+# Welcome to the Minecraft: Bedrock Editor! 
 
 <img width="750" alt="Stylized image of the Minecraft Bedrock Editor" src="https://user-images.githubusercontent.com/56832421/218781941-acb626bd-b9a3-4893-a1b0-d6a33b2f3d78.png">
 
