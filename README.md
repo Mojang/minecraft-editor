@@ -31,7 +31,7 @@ Bedrock Editor is for Windows PC, keyboard + mouse only. View the [documentation
 
 **Three-step quick start for getting the Editor:**
 
-1. Install Bedrock Preview via the [Launcher](https://help.minecraft.net/hc/articles/4412261881229-Minecraft-Launcher-for-Windows-).
+1. Install Bedrock Preview via the [Launcher](https://help.minecraft.net/hc/en-us/articles/4412261881229-Minecraft-Launcher-for-Windows-).
 
 | Install the Launcher | Install Bedrock Preview |
 |--|--|
@@ -56,7 +56,7 @@ _If your desktop shortcut doesn't appear to be launching the Editor, you may nee
 | **Resource** | **Description** |
 |--|--|
 | [Documentation](https://aka.ms/LearnEditor) | Learn how to use the Editor | 
-| [Minecraft: Bedrock Edition Preview Changelogs](https://feedback.minecraft.net/hc/sections/360001185332-Beta-and-Preview-Information-and-Changelogs) | View the Preview changelogs |
+| [Minecraft: Bedrock Edition Preview Changelogs](https://feedback.minecraft.net/hc/en-us/sections/360001185332-Beta-and-Preview-Information-and-Changelogs) | View the Preview changelogs |
 | [/mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) | Participate in [discussions and provide feedback to our team](https://github.com/Mojang/minecraft-editor/discussions) | 
 | Coming soon! | Editor API documentation, extension samples, starter kit, and where to create and share Editor API feedback |
 
