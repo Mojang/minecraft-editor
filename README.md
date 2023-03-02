@@ -1,6 +1,6 @@
 # Welcome to the Minecraft: Bedrock Editor! 
 
-<img width="750" alt="Stylized image of the Minecraft Bedrock Editor" src="https://user-images.githubusercontent.com/56832421/218781941-acb626bd-b9a3-4893-a1b0-d6a33b2f3d78.png">
+<img alt="Stylized image of the Minecraft Bedrock Editor" src="https://user-images.githubusercontent.com/56832421/218781941-acb626bd-b9a3-4893-a1b0-d6a33b2f3d78.png">
 
 Minecraft Editor is a natively built, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock. 
 
@@ -46,7 +46,7 @@ Bedrock Editor is for Windows PC, keyboard + mouse only. View the [documentation
 
 
 3. Open the Editor via the desktop shortcut you created.
-<img width="416" alt="Animation of opening the Editor via the desktop shortcut you created" img src="https://user-images.githubusercontent.com/56832421/218185006-65dac070-7283-42b3-8091-ba9240cb7df3.gif" width="250" />
+<img width="250" alt="Animation of opening the Editor via the desktop shortcut you created" img src="https://user-images.githubusercontent.com/56832421/218185006-65dac070-7283-42b3-8091-ba9240cb7df3.gif" width="250" />
 
 _If your desktop shortcut doesn't appear to be launching the Editor, you may need to change the default app from `Minecraft` to `Minecraft Preview`. View the Troubleshooting section at the end of this README._
 
@@ -59,7 +59,7 @@ _If your desktop shortcut doesn't appear to be launching the Editor, you may nee
 | [Documentation](https://aka.ms/LearnEditor) | Learn how to use the Editor | 
 | [Minecraft: Bedrock Edition Preview Changelogs](https://feedback.minecraft.net/hc/en-us/sections/360001185332-Beta-and-Preview-Information-and-Changelogs) | View the Preview changelogs |
 | [/mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) | Participate in [discussions and provide feedback to our team](https://github.com/Mojang/minecraft-editor/discussions) | 
-| Coming soon! | Editor API documentation, extension samples, starter kit, and where to create and share Editor API feedback |
+| Coming soon! | Editor API documentation, extension samples, and a starter kit |
 
 ---
 
