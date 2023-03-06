@@ -2,7 +2,7 @@
 
 <img alt="Stylized image of the Minecraft Bedrock Editor" src="https://user-images.githubusercontent.com/56832421/218781941-acb626bd-b9a3-4893-a1b0-d6a33b2f3d78.png">
 
-Minecraft Editor is a natively built, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock. 
+Minecraft Editor is an in-engine, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock. 
 
 ---
 
