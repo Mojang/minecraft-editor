@@ -28,7 +28,7 @@ v0.4: The Editor API Update was the initial release of the Editor API. Below are
 | **Resources** | **Description**|
 | -- | -- | 
 | [Script API Docs](https://docs.microsoft.com/minecraft/creator/scriptapi/) | Official Microsoft docs for the Creator Scripting API. | 
-| [Editor API Docs]() | Official Microsoft docs for the Editor API. |
+| [Editor API Docs](https://aka.ms/EditorAPI) | Official Microsoft docs for the Editor API. |
 | [Editor Extension Starter Kit](https://github.com/Mojang/minecraft-editor-extension-starter-kit) | A repo containing the build pipeline, libraries, and types required for you to build a Minecraft Editor Extension. | 
 | [Editor Extension Samples](https://github.com/Mojang/minecraft-editor-extension-samples) | Extension examples for you to use as a foundation for your own creations, or to learn from. | 
 
@@ -68,7 +68,7 @@ _If your desktop shortcut doesn't appear to be launching the Editor, you may nee
 | [Documentation](https://aka.ms/LearnEditor) | Learn how to use the Editor | 
 | [Minecraft: Bedrock Edition Preview Changelogs](https://feedback.minecraft.net/hc/en-us/sections/360001185332-Beta-and-Preview-Information-and-Changelogs) | View the Preview changelogs |
 | [/mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) | Participate in [discussions and provide feedback to our team](https://github.com/Mojang/minecraft-editor/discussions) | 
-| [Editor API Docs]() | Official Microsoft docs for the Editor API. |
+| [Editor API Docs](https://aka.ms/EditorAPI) | Official Microsoft docs for the Editor API. |
 | [Editor Extension Starter Kit](https://github.com/Mojang/minecraft-editor-extension-starter-kit) | A repo containing the build pipeline, libraries, and types required for a 3rd party to build a Minecraft Editor Extension. | 
 | [Editor Extension Samples](https://github.com/Mojang/minecraft-editor-extension-samples) | Extension examples for you to use as a foundation for your own creations, or to learn from. | 
 
