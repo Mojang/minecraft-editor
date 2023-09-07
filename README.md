@@ -47,7 +47,7 @@ Bedrock Editor is for Windows PC, keyboard + mouse only. View the [documentation
 |--|--|
 | <img width="761" alt="Image of installing the Launcher from the Microsoft Store" src="./_images/install-the-launcher.png"> | <img width="753" alt="Image of installing Minecraft Bedrock Preview from the Minecraft Launcher" src="./_images/install-bedrock-preview.png"> |
 
-2. Create a desktop shortcut. When prompted for the filename, copy/paste the following into the textfield: `minecraft:?Editor=true`
+2. Create a desktop shortcut. When prompted for the filename, copy/paste the following into the textfield: `minecraft-preview:?Editor=true`
 
 | Create a new shortcut | Specify the destination |
 |--|--|
