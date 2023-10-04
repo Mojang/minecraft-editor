@@ -51,7 +51,7 @@ Bedrock Editor is for Windows PC, keyboard + mouse only. View the [documentation
 
 | Create a new shortcut | Specify the destination |
 |--|--|
-| <img width="416" alt="Image of right clicking on Windows desktop to create a new shortcut" src="./_images/create-new-shortcut.png"> | <img width="443" alt="Image of pasting the shortcut minecraft:?Editor=true as the destination for the shortcut" src="./_images/specify-destination.png"> |
+| <img width="416" alt="Image of right clicking on Windows desktop to create a new shortcut" src="./_images/create-new-shortcut.png"> | <img width="443" alt="Image of pasting the shortcut minecraft:?Editor=true as the destination for the shortcut" src="./_images/editor_install_shortcut_path_preview.png"> |
 
 
 3. Open the Editor via the desktop shortcut you created.
