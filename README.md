@@ -9,7 +9,7 @@ It is a framework that is designed to allow creators to use more complex tools t
 ---
 
 ## Housekeeping
-- The Editor is in early preview and we're working to add more capabilities. It will change significantly as we get feedback from creators like you.
+- The Editor is in early development and we're working to add more capabilities. It will change as we get feedback from creators like you.
 - Editor will be exclusively available in Bedrock Preview on Windows, keyboard/mouse until the feature set and quality meets our standards.
 - Editor is not a new gamemode. It is a tool to assist creators in their worldbuilding workflows.
 
